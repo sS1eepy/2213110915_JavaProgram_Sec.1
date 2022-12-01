@@ -1,4 +1,4 @@
-Student ID: 2213110915
-Fullname: Voraparth Tanasuvimolwong
-AKA: sS1eepy
-ClassDetail: Control Statement & Comfirm Dialog
+StudentID: 2213110915  
+Fullname(in English): Voraparth Tanasuvimolwong
+AKA : Pol
+ClassDetail: String Methods and Defined Method
