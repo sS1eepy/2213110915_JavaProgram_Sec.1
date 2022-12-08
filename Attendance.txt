@@ -1,4 +1,4 @@
 StudentID: 2213110915  
 Fullname(in English): Voraparth Tanasuvimolwong
 AKA : Pol
-ClassDetail: String Methods and Defined Method
+ClassDetail: Repeat Lab Sheet 1-4
