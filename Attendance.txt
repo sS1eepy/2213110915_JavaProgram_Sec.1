@@ -1,4 +1,4 @@
 StudentID: 2213110915  
 Fullname(in English): Voraparth Tanasuvimolwong
 AKA : Pol
-ClassDetail: Class and Object, Array of Object
+ClassDetail: GUI
